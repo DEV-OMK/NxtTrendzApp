@@ -1,0 +1,18 @@
+.cart-list {
+  padding-left: 0px;
+  display: flex;
+  flex-direction: column;
+}
+
+.remove-all-button {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  color: #0b69ff;
+  align-self: flex-end;
+  margin-bottom: 20px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
